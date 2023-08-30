@@ -1,8 +1,11 @@
 🎙️ Voice-Based Emotion Detection using MLP Classifier and SMS Alerts
+
+
 This GitHub repository hosts a powerful and user-friendly emotion detection system that utilizes a Multilayer Perceptron (MLP) classifier to analyze voice recordings in real-time.
 The system is designed to accurately identify various emotions such as happiness, sadness, anger, and more, from audio input.
 
 🚀 Key Features:
+
 MLP Classifier: Our emotion detection model is built upon a state-of-the-art Multilayer Perceptron neural network. The model is trained on a diverse dataset, ensuring robust performance across a wide range of voice inputs.
 Real-time Analysis: The system offers real-time emotion analysis, making it suitable for applications like call centers, virtual assistants, and mental health support services.
 SMS Alerts: In addition to the emotion classification, the system is equipped with an SMS alert functionality. When certain emotions are detected, the system can automatically send customizable SMS alerts, allowing for timely intervention or follow-up actions. Sinchapi where it is used to get the messages  by providing our phone number  and by placing our small code in it to get detected output to our mobile as message.
