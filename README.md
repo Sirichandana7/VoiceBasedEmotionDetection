@@ -13,24 +13,29 @@ User-Friendly Interface: We've developed an intuitive user interface that enable
 Scalable and Customizable: The architecture of the system is designed to be scalable, and the MLP model can be fine-tuned or replaced with other classifiers depending on specific use cases.
 
 🛠️ Usage:
+
 Clone the repository and install the required dependencies.
 Launch the user interface and initiate voice recording.
 Experience real-time emotion detection and SMS alerts in action.
 
 📚 Resources:
+
 Detailed documentation to help you set up and understand the project.
 A curated dataset for training and testing the emotion detection model.
 Code snippets for integrating SMS functionality into your applications.
 
 🌐 Contributions:
+
 We welcome contributions from the open-source community to enhance the system's capabilities, improve model accuracy, and extend its functionalities.
 
 📞 Contact:
+
 For inquiries, collaborations, or suggestions, please reach out to sirichandanamannav6@gmail.com.
 
 Start building smarter and more responsive applications with our voice-based emotion detection system. Empower your projects with the ability to understand and respond to users' emotions in real time!
 
 OUTPUT :
+
 ![image](https://github.com/Sirichandana7/VoiceBasedEmotionDetection/assets/83815075/ed4f330e-9fa0-4734-be59-fa7f082b6907)
 ![image](https://github.com/Sirichandana7/VoiceBasedEmotionDetection/assets/83815075/72cf900c-0043-4168-9f66-202068d285a0)
 ![image](https://github.com/Sirichandana7/VoiceBasedEmotionDetection/assets/83815075/de079f14-80eb-4e64-a8e3-b5e9dafbede9)
