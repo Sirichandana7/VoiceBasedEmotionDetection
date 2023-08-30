@@ -7,9 +7,13 @@ The system is designed to accurately identify various emotions such as happiness
 🚀 Key Features:
 
 MLP Classifier: Our emotion detection model is built upon a state-of-the-art Multilayer Perceptron neural network. The model is trained on a diverse dataset, ensuring robust performance across a wide range of voice inputs.
+
 Real-time Analysis: The system offers real-time emotion analysis, making it suitable for applications like call centers, virtual assistants, and mental health support services.
+
 SMS Alerts: In addition to the emotion classification, the system is equipped with an SMS alert functionality. When certain emotions are detected, the system can automatically send customizable SMS alerts, allowing for timely intervention or follow-up actions. Sinchapi where it is used to get the messages  by providing our phone number  and by placing our small code in it to get detected output to our mobile as message.
+
 User-Friendly Interface: We've developed an intuitive user interface that enables easy interaction with the system. Users can record voice snippets directly through the interface and receive instant emotion analysis results.
+
 Scalable and Customizable: The architecture of the system is designed to be scalable, and the MLP model can be fine-tuned or replaced with other classifiers depending on specific use cases.
 
 🛠️ Usage:
