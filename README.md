@@ -34,7 +34,7 @@ We welcome contributions from the open-source community to enhance the system's 
 
 📞 Contact:
 
-For inquiries, collaborations, or suggestions, please reach out to sirichandanamannav6@gmail.com.
+For inquiries, collaborations, or suggestions, please reach out to me on linked in https://www.linkedin.com/in/siri-chandana-mannava/
 
 Start building smarter and more responsive applications with our voice-based emotion detection system. Empower your projects with the ability to understand and respond to users' emotions in real time!
 
